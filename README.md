@@ -3,9 +3,7 @@
 </h1>
 
 Heyaa! I'm Victor Astakhov, a second year student from Russia. 
-Currently I'm studying as a Fullstack Web developer at faculty of 
-Information Technology and Cyber Security at Voronezh State Technical 
-University. Hope you'll enjoy my projects!
+Currently I'm studying as a Fullstack Web developer. Hope you'll enjoy my projects!
     
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -27,12 +25,3 @@ export class Lisophoria extends Developer {
     location: string = 'Voronezh, Russia';
 }
 ```
-<h3>Contacts:</h3>
-<p>
-<a href="https://vk.com/lisophoria">
-  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
-</a>
-<a href="discordapp.com/users/lisophoria#4121">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-</p>
