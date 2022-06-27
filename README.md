@@ -3,8 +3,6 @@
   <span>A fullstack developer<span>
 </h1>
 
-Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer.
-
 <br>
 
 ```typescript
@@ -16,3 +14,5 @@ export class lisophoria {
     location: string = 'Voronezh, Russia';
 }
 ```
+
+Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer.
