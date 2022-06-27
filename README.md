@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Victor "lisophoria" Astakhov, a fullstack developer</b>
+</h1>
 
-<!--
-**lisophoria/lisophoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+export class lisophoria {
+    name: string = 'Victor';
+    surname: string = 'Astakhov';
+    nickname: string = 'lisophoria';
+    age: int = 18;
+    location: string = 'Voronezh, Russia';
+}
+```
