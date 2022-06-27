@@ -3,10 +3,12 @@
   <span>A fullstack developer<span>
 </h1>
 
+Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer at faculty of Information Technology and Cyber Security at Voronezh State Technical University. Hope you'll enjoy my projects!
+    
 <br>
 
 ```typescript
-export class lisophoria {
+export class Lisophoria extends Developer {
     name: string = 'Victor';
     surname: string = 'Astakhov';
     nickname: string = 'lisophoria';
@@ -15,4 +17,3 @@ export class lisophoria {
 }
 ```
 
-Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer.
