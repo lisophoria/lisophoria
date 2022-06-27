@@ -1,5 +1,6 @@
 <h1 align="center">
-  <b>Victor "lisophoria" Astakhov, a fullstack developer</b>
+  <b>Victor "lisophoria" Astakhov</b><br>
+  A fullstack developer
 </h1>
 
 Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer.
