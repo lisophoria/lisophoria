@@ -5,7 +5,7 @@
 Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. Hope you'll enjoy my projects!
 
 ```typescript
-export class Lisophoria extends Developer {
+class Lisophoria extends Developer {
     name: string = 'Victor';
     surname: string = 'Astakhov';
     nickname: string = 'lisophoria';
