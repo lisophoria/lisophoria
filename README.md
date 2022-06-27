@@ -1,9 +1,9 @@
 <h1 align="center">
-  Victor Astakhov
+  Victor "lisophoria" Astakhov
 </h1>
 
-Heyaa! I'm Victor Astakhov, a second year student from Russia. 
-Currently I'm studying as a Fullstack Web developer. Hope you'll enjoy my projects!
+Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. 
+Currently studying as a Fullstack Web developer. Hope you'll enjoy my projects!
     
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
