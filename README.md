@@ -2,8 +2,7 @@
   Victor "lisophoria" Astakhov
 </h1>
 
-Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. 
-Currently studying as a Fullstack Web developer. Hope you'll enjoy my projects!
+Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. Hope you'll enjoy my projects!
 
 ```typescript
 export class Lisophoria extends Developer {
