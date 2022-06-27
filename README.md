@@ -1,9 +1,11 @@
 <h1 align="center">
-  <b>Victor "lisophoria" Astakhov</b><br>
-  <span>A fullstack developer<span>
+  Victor Astakhov
 </h1>
 
-Heyaa! I'm Victor Astakhov, a second year student from Russia. Currently I'm studying as a Fullstack Web developer at faculty of Information Technology and Cyber Security at Voronezh State Technical University. Hope you'll enjoy my projects!
+Heyaa! I'm Victor Astakhov, a second year student from Russia. 
+Currently I'm studying as a Fullstack Web developer at faculty of 
+Information Technology and Cyber Security at Voronezh State Technical 
+University. Hope you'll enjoy my projects!
     
 <br>
 
@@ -17,3 +19,7 @@ export class Lisophoria extends Developer {
 }
 ```
 
+## Contacts:
+<a href="https://vk.com/lisophoria">
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+</a>
