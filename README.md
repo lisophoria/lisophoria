@@ -18,7 +18,7 @@ export class Lisophoria extends Developer {
     location: string = 'Voronezh, Russia';
 }
 ```
-<h4>Contacts:</h4>
+<h3>Contacts:</h3>
 <p>
 <a href="https://vk.com/lisophoria">
   <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
@@ -28,7 +28,7 @@ export class Lisophoria extends Developer {
 </a>
 </p>
 
-<h4>Frontend:</h4>
+<h3>Frontend:</h3>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -38,7 +38,7 @@ export class Lisophoria extends Developer {
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
-<h4>Other:</h4>
+<h3>Other:</h3>
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
