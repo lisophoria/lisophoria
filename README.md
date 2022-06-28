@@ -9,7 +9,7 @@ class Lisophoria extends Developer {
     name: string = 'Victor';
     surname: string = 'Astakhov';
     nickname: string = 'lisophoria';
-    age: int = 18;
+    age: number = 18;
     location: string = 'Voronezh, Russia';
 }
 ```
