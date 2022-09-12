@@ -5,12 +5,12 @@
 Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. Hope you'll enjoy my projects!
 
 ```typescript
-class Lisophoria extends Developer {
+class Lisophoria extends Student {
     name: string = 'Victor';
     surname: string = 'Astakhov';
     nickname: string = 'lisophoria';
-    age: number = 19;
     location: string = 'Voronezh, Russia';
+    age: number = 19;
 }
 ```
 
