@@ -27,7 +27,7 @@ class Lisophoria extends Student {
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
-<h3>Backend<h3>
+<h3>Backend (I'm not working with backend 🥱)<h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
