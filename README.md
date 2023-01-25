@@ -2,7 +2,7 @@
   Victor "lisophoria" Astakhov
 </h1>
 
-Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. Junior software developer for LLC KeenEye. Hope you'll enjoy my projects!
+Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. I work as junior software developer for LLC KeenEye since late 2022. Hope you'll enjoy my projects!
 
 ```typescript
 class Lisophoria extends Student {
