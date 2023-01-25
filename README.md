@@ -5,12 +5,12 @@
 Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. I work as junior software developer for LLC KeenEye since late 2022. Hope you'll enjoy my projects!
 
 ```typescript
-class Lisophoria extends Student {
-    name: string = 'Victor';
-    surname: string = 'Astakhov';
-    nickname: string = 'lisophoria';
-    location: string = 'Voronezh, Russia';
-    age: number = 19;
+const lisophoria: IDeveloper = {
+  name: 'Victor Astakhov',
+  alias: 'lisophoria',
+  location: 'Voronezh, Russia',
+  occupation: 'Frontend Developer',
+  age: 19,
 }
 ```
 
