@@ -13,7 +13,7 @@ const lisophoria: IDeveloper = {
   age: 19,
 }
 ```
-
+![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent)
 <h3>Frontend<h3>
 
 <p align="left">
@@ -22,6 +22,7 @@ const lisophoria: IDeveloper = {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
