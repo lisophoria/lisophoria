@@ -1,7 +1,3 @@
-<h1 align="center">
-  Victor "lisophoria" Astakhov
-</h1>
-
 Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. I work as software engineer since late 2022. Hope you'll enjoy my projects!
 
 ```typescript
@@ -13,9 +9,8 @@ const lisophoria: IDeveloper = {
   age: 19,
 }
 ```
-![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent)
+---
 <h3>Frontend<h3>
-
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -44,3 +39,7 @@ const lisophoria: IDeveloper = {
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 </p>
+ 
+---
+  
+![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent)
