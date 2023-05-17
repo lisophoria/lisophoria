@@ -44,4 +44,4 @@ const lisophoria: IDeveloper = {
  
 ---
   
-![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent)
+![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent&card_width=770)
