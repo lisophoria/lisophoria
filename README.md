@@ -5,7 +5,7 @@ const lisophoria: IDeveloper = {
   name: 'Victor Astakhov',
   alias: 'lisophoria',
   location: 'Voronezh, Russia',
-  occupation: 'Junior software engineer',
+  occupation: 'Software engineer',
   age: 19,
 }
 ```
