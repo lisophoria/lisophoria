@@ -6,7 +6,7 @@ const lisophoria: IDeveloper = {
   alias: 'lisophoria',
   location: 'Voronezh, Russia',
   occupation: 'Software engineer',
-  age: 19,
+  age: 20,
 }
 ```
 
