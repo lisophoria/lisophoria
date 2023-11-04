@@ -1,4 +1,4 @@
-Heyaa! I'm Victor Astakhov, a 2nd year student from Russia. I work as software engineer since late 2022. Hope you'll enjoy my projects!
+Hello! I'm Victor Astakhov, a junior software engineer from Russia. Hope you enjoy my projects!
 
 ```typescript
 const lisophoria: IDeveloper = {
