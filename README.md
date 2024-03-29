@@ -1,4 +1,4 @@
-Hello! I'm Victor Astakhov, a junior software engineer from Russia. Hope you enjoy my projects!
+Hello! I'm Victor Astakhov, a software engineer from Russia. Hope you enjoy my projects!
 
 ```typescript
 const lisophoria: IDeveloper = {
