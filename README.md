@@ -9,5 +9,8 @@ const lisophoria = {
   age: 21,
 };
 ```
-  
-![lisophoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisophoria&show_icons=true&theme=transparent&card_width=850)
+---
+![](https://raw.githubusercontent.com/lisophoria/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lisophoria/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/lisophoria/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lisophoria/github-stats/master/generated/languages.svg#gh-light-mode-only)
